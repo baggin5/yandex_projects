@@ -5,7 +5,7 @@
 * [Dashboard](https://public.tableau.com/views/Project_final_16857298399680/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 * [Presentation](https://drive.google.com/file/d/1wbxudKwBe4zeTKiBVdaJNGwZCV5TbwQB/view?usp=sharing)
 
-## Project descroption
+## Project description
 
 **Client** - regional bank "Metanprom," which is facing a crisis due to the critical mass of customer churn.
 

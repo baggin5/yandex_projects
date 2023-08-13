@@ -31,7 +31,7 @@ The client has access to a dataset with anonymized user data.
 
 **Results:** Prepare a presentation and dashboard that can demonstrate the research findings effectively.
 
-**Used tools:** 
+## Used tools: 
 * `pandas`
 * `matplotlib`
 * `seaborn`

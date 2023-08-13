@@ -30,3 +30,13 @@ The client has access to a dataset with anonymized user data.
 **Task:** Conduct an analysis of customers of the regional bank and **identify segments** (profiles of groups defined by 2-3 features) of customers who are prone to churn from the bank's services.
 
 **Results:** Prepare a presentation and dashboard that can demonstrate the research findings effectively.
+
+**Used tools:** 
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `numpy`
+* `scipy`
+* `datetime`
+* `math`
+* `plotly`

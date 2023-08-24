@@ -93,5 +93,3 @@ Based on the results of the exploratory data analysis, the following conclusions
 * Users purchase products at a rate of 103/102% compared to those who view the cart (31/28% of the initial number of users).
 ___
 **In summary:** The implementation of the new payment funnel is not effective.
-* [Presentation](https://drive.google.com/file/d/1wbxudKwBe4zeTKiBVdaJNGwZCV5TbwQB/view?usp=sharing)
-

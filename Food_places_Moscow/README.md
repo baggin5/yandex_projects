@@ -44,10 +44,10 @@
  >> If the string contains a single number — a price without a range, that number will be included in the column.
  >> If there is no value or it does not start with the substring "Cappuccino price," the column will be empty.
 * `chain` — a number expressed as 0 or 1, indicating whether the establishment is part of a chain (there may be errors for small chains):
- * 0 — the establishment is not part of a chain
- * 1 — the establishment is part of a chain
+ >> 0 — the establishment is not part of a chain
+ >> 1 — the establishment is part of a chain
 * `district` — administrative district in which the establishment is located, for example:
- * Central Administrative District;
+ >> Central Administrative District;
 * `seats` — number of seating places.
 
 ## Task description

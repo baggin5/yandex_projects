@@ -14,7 +14,7 @@
 
 Evaluate whether the changes associated with the implementation of an improved recommendation system for users have been beneficial.
 
-The client has access to a dataset with anonymized user data of maden A/B test.
+The client has access to a datasets with anonymized user data of maden A/B test.
 
 **Datasets and Columns:**
 **`ab_project_marketing_events.csv`** — a calendar of marketing events for the year 2020.

@@ -32,17 +32,17 @@
 * `rating` — establishment rating based on user ratings in Yandex Maps (highest rating is 5.0);
 * `price` — price category in the establishment, for example, "average," "below average," "above average," and so on;
 * `avg_bill` — a string that stores the average order cost in the form of a range, for example:
- * "Average bill: 1000–1500 ₽";
- * "Cappuccino price: 130–220 ₽";
- * "Beer glass price: 400–600 ₽".
-* `middle_avg_bill` — a number representing the estimated average bill, which is only indicated for values from the `avg_bill` column that start with the substring "Average bill":
- * If the string contains a price range of two values, the median of these two values will be included in the column.
- * If the string contains a single number — a price without a range, that number will be included in the column.
- * If there is no value or it does not start with the substring "Average bill," the column will be empty.
+ > "Average bill: 1000–1500 ₽";
+ > "Cappuccino price: 130–220 ₽";
+ > "Beer glass price: 400–600 ₽".
+* `middle_avg_bill` — a number representing the estimated average bill, which is only indicated for values from the `avg_bill` column that start with the substring >"Average bill":
+ > If the string contains a price range of two values, the median of these two values will be included in the column.
+ > If the string contains a single number — a price without a range, that number will be included in the column.
+ > If there is no value or it does not start with the substring "Average bill," the column will be empty.
 * `middle_coffee_cup` — a number representing the estimated price of one cup of cappuccino, which is only indicated for values from the `avg_bill` column that start with the substring "Cappuccino price":
- * If the string contains a price range of two values, the median of these two values will be included in the column.
- * If the string contains a single number — a price without a range, that number will be included in the column.
- * If there is no value or it does not start with the substring "Cappuccino price," the column will be empty.
+ > If the string contains a price range of two values, the median of these two values will be included in the column.
+ > If the string contains a single number — a price without a range, that number will be included in the column.
+ > If there is no value or it does not start with the substring "Cappuccino price," the column will be empty.
 * `chain` — a number expressed as 0 or 1, indicating whether the establishment is part of a chain (there may be errors for small chains):
  * 0 — the establishment is not part of a chain
  * 1 — the establishment is part of a chain

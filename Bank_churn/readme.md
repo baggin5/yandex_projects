@@ -1,4 +1,4 @@
-# Banks — Customer Churn Analysis
+# Bank — Customer Churn Analysis
 
 ## Used tools: 
 * `pandas`
